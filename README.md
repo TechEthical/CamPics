@@ -43,6 +43,6 @@ bash campics.sh
 ```
 Note: Use Mobile Data For Ngrok Link
 
-# Give me the credits if you copy ANY part from this code. Don't be NOOB!!
+## Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 
 <p>CamPics is inspired by VAJEED</p>
