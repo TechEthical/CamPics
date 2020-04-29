@@ -23,13 +23,16 @@ apt-get -y install php openssh git wget
 
 ## Installing (Kali Linux):
 
+```
 git clone https://github.com/TechBite-BD/CamPics
 cd CamPics
 bash campics.sh
+```
 
 
 ## Installing (Termux):
 
+```
 pkg install git
 pkg install wget
 pkg install php 
@@ -37,7 +40,7 @@ pkg install openssh
 git clone https://github.com/TechBite-BD/CamPics.git
 cd CamPics
 bash campics.sh
-
+```
 Note: Use Mobile Data For Ngrok Link
 
 <p>CamPics is inspired by VAJEED</p>
