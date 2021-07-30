@@ -24,7 +24,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux):
 
 ```
-git clone https://github.com/TechBite-BD/CamPics
+git clone https://github.com/TechEthical/CamPics
 cd CamPics
 bash campics.sh
 ```
@@ -37,7 +37,7 @@ pkg install git
 pkg install wget
 pkg install php 
 pkg install openssh
-git clone https://github.com/TechBite-BD/CamPics.git
+git clone https://github.com/TechEthical/CamPics.git
 cd CamPics
 bash campics.sh
 ```
